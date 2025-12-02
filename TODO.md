@@ -1,0 +1,4 @@
+- [x] Update dashboard.html to remove Leaflet scripts and add Google Maps script with API key
+- [x] Update dashboard.js to replace Leaflet map, marker, and polyline with Google Maps equivalents
+- [x] Switch back to Leaflet map on the dashboard
+- [ ] Test the map functionality after changes
